@@ -10,7 +10,7 @@ next_task_status: ready
 last_session: 2026-08-06-001
 completed_sessions: 1
 partial_sessions: 0
-total_minutes: 15
+total_minutes: 18
 effective_sessions_since_review: 1
 effective_sessions_since_assessment: 1
 review_due: false
