@@ -1,21 +1,21 @@
 ---
-updated: 2026-08-07
-phase: diagnostic
-phase_label: 诊断期
-difficulty_band: unassigned
-cefr_reference: unassigned
-next_task: baseline-03
-next_task_file: assessments/baseline.md
+updated: 2026-08-10
+phase: reading-foundation
+phase_label: 阅读基础期
+difficulty_band: "80–120 words; direct sentences; up to 3 core-word glosses"
+cefr_reference: "A1–A2 reading range (provisional)"
+next_task: foundation-01
+next_task_file: null
 next_task_status: ready
-last_session: 2026-08-07-001
-completed_sessions: 2
+last_session: 2026-08-10-001
+completed_sessions: 3
 partial_sessions: 0
-total_minutes: 34
-effective_sessions_since_review: 2
-effective_sessions_since_assessment: 2
+total_minutes: 64
+effective_sessions_since_review: 3
+effective_sessions_since_assessment: 3
 review_due: false
 assessment_due: false
-recent_comprehension_pct: [50, 40]
+recent_comprehension_pct: [50, 40, 86]
 baseline_wpm: 45.9
 recent_summary_score: 2
 vocabulary_due: 0
@@ -25,26 +25,24 @@ vocabulary_due: 0
 
 ## 下一任务
 
-**基线诊断 3：英文复述与延迟回忆**
+**阅读基础 1：核心动词与短文主干**
 
-位置：`assessments/baseline.md` 的“诊断 3”。
-
-启动方式：至少下一天向 Codex 发送“开始今天的学习”。Codex 应先复习到期词汇，并测试 `represent`、`participation`、`overlooked` 的延迟回忆，再展示诊断 3 的文章和问题。
+启动方式：下一次向 Codex 发送“开始今天的学习”。先复习到期的 `overlooked` 和 `lend`，再阅读一篇 80–120 词、句式直接的短文。第一遍先找每段“谁 + 做什么”，核心词提示不超过三个。
 
 ## 当前判断
 
-- 已完成诊断 1 和诊断 2，暂不分配 CEFR 等级。
+- 三次基线诊断已经完成，进入阅读基础期。CEFR 仅暂记为 A1–A2 阅读参考区间，不作为固定等级。
 - 诊断 1：344 词，阅读 450 秒，45.9 WPM，理解率 50%，摘要 2/4。
 - 诊断 2：189 词，阅读 240 秒，查词 1 次，理解率 40%，一句摘要 2/4；未确认查词时点，因此不计算 WPM。
-- 两次理解率均低于 70%；诊断 3 使用句式更直接的材料，按降低一个难度档处理。诊断 2 的精力为 4/5、挫败感为 1/5。
-- 当前重点是先识别主语和带时态的谓语，再处理 `which`、`when`、`where` 等从句。
-- 完成前三次诊断后，依据实际数据选择阅读基础期的起始难度。
+- 诊断 3：184 词；首次阅读因核心词 `lend` 受阻，分段提供词义后理解率 86%，摘要 2/4。该理解率是支持后结果，不能和前两次独立表现直接比较；查词数和有效阅读时间无法确认，不计算 WPM。
+- 基线显示：解决阻断性核心词后，能抓住具体好处、管理困难和连接短语的指代；当前主要障碍是高频动词，以及先识别主语和带时态谓语。
+- 起始材料调整为 80–120 词、直接句式、最多预教三个核心词。复述先完成“谁 + 做什么”，再增加原因和细节。
 
 ## 最近指标
 
 | 指标 | 数据 |
 | --- | ---: |
-| 最近 5 次理解率 | 50%, 40% |
+| 最近 5 次理解率 | 50%, 40%, 86%（分段支持） |
 | 基线 WPM | 45.9 |
 | 最近摘要评分 | 2/4 |
 | 到期词汇 | 0 |

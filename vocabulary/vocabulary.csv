@@ -1,6 +1,7 @@
 term,context,meaning_zh,first_seen,last_reviewed,next_review,interval_days,recall_score,status
-maintenance,"Maintenance is another challenge.",维护；保养,2026-08-06,2026-08-07,2026-08-10,3,2,learning
-limitation,"one important limitation of pocket parks",局限；限制,2026-08-06,2026-08-07,2026-08-10,3,2,learning
-attend,"Even when residents can attend...",参加；出席,2026-08-07,,2026-08-08,1,,learning
-participation,"To increase participation...",参与；参加,2026-08-07,,2026-08-08,1,,learning
-overlooked,"so that overlooked groups have more than one way to take part",被忽视的,2026-08-07,,2026-08-08,1,,learning
+maintenance,"Maintenance is another challenge.",维护；保养,2026-08-06,2026-08-10,2026-08-17,7,2,learning
+limitation,"one important limitation of pocket parks",局限；限制,2026-08-06,2026-08-10,2026-08-17,7,2,learning
+attend,"Even when residents can attend...",参加；出席,2026-08-07,2026-08-10,2026-08-13,3,2,learning
+participation,"To increase participation...",参与；参加,2026-08-07,2026-08-10,2026-08-13,3,2,learning
+overlooked,"so that overlooked groups have more than one way to take part",被忽视的,2026-08-07,2026-08-10,2026-08-11,1,1,learning
+lend,"Some public libraries now lend objects such as tools.",借出,2026-08-10,,2026-08-11,1,,learning
