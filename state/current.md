@@ -1,23 +1,24 @@
 ---
-updated: 2026-08-10
+updated: 2026-08-12
 phase: reading-foundation
 phase_label: 阅读基础期
 difficulty_band: "80–120 words; direct sentences; up to 3 core-word glosses"
 cefr_reference: "A1–A2 reading range (provisional)"
-next_task: foundation-01
+next_task: foundation-02
 next_task_file: null
 next_task_status: ready
-last_session: 2026-08-10-001
-completed_sessions: 3
+last_session: 2026-08-12-001
+completed_sessions: 4
 partial_sessions: 0
-total_minutes: 64
-effective_sessions_since_review: 3
-effective_sessions_since_assessment: 3
+total_minutes: 81
+effective_sessions_since_review: 4
+effective_sessions_since_assessment: 4
 review_due: false
 assessment_due: false
-recent_comprehension_pct: [50, 40, 86]
+recent_comprehension_pct: [50, 40, 86, 83]
 baseline_wpm: 45.9
-recent_summary_score: 2
+recent_wpm: 51.0
+recent_summary_score: 3
 vocabulary_due: 0
 ---
 
@@ -25,9 +26,9 @@ vocabulary_due: 0
 
 ## 下一任务
 
-**阅读基础 1：核心动词与短文主干**
+**阅读基础 2：主干与责任信息**
 
-启动方式：下一次向 Codex 发送“开始今天的学习”。先复习到期的 `overlooked` 和 `lend`，再阅读一篇 80–120 词、句式直接的短文。第一遍先找每段“谁 + 做什么”，核心词提示不超过三个。
+启动方式：下一次向 Codex 发送“开始今天的学习”。先复习届时到期词汇，再阅读一篇 80–120 词、句式直接的短文。第一遍先找每段“谁 + 做什么”，并关注 `must` 等表示责任或要求的词；核心词提示不超过三个。
 
 ## 当前判断
 
@@ -37,14 +38,16 @@ vocabulary_due: 0
 - 诊断 3：184 词；首次阅读因核心词 `lend` 受阻，分段提供词义后理解率 86%，摘要 2/4。该理解率是支持后结果，不能和前两次独立表现直接比较；查词数和有效阅读时间无法确认，不计算 WPM。
 - 基线显示：解决阻断性核心词后，能抓住具体好处、管理困难和连接短语的指代；当前主要障碍是高频动词，以及先识别主语和带时态谓语。
 - 起始材料调整为 80–120 词、直接句式、最多预教三个核心词。复述先完成“谁 + 做什么”，再增加原因和细节。
+- 阅读基础 1：102 词，独立阅读 120 秒，查词 0 次，51.0 WPM，理解率 83%，摘要 3/4。材料比基线短且更直接，速度暂不与基线直接比较；下一步需要识别 `must` 指向的责任信息。
 
 ## 最近指标
 
 | 指标 | 数据 |
 | --- | ---: |
-| 最近 5 次理解率 | 50%, 40%, 86%（分段支持） |
+| 最近 5 次理解率 | 50%, 40%, 86%（分段支持）, 83% |
 | 基线 WPM | 45.9 |
-| 最近摘要评分 | 2/4 |
+| 最近独立阅读 WPM | 51.0（102 词、直接句式） |
+| 最近摘要评分 | 3/4 |
 | 到期词汇 | 0 |
 
 ## 状态维护约定
