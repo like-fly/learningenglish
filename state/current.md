@@ -1,23 +1,23 @@
 ---
-updated: 2026-08-18
+updated: 2026-08-19
 phase: reading-foundation
 phase_label: 阅读基础期
 difficulty_band: "80–120 words; direct sentences; up to 3 core-word glosses"
 cefr_reference: "A1–A2 reading range (provisional)"
-next_task: foundation-04
+next_task: foundation-05
 next_task_file: null
 next_task_status: ready
-last_session: 2026-08-18-002
-completed_sessions: 6
+last_session: 2026-08-19-003
+completed_sessions: 7
 partial_sessions: 0
-total_minutes: 98
-effective_sessions_since_review: 1
-effective_sessions_since_assessment: 6
+total_minutes: 118
+effective_sessions_since_review: 2
+effective_sessions_since_assessment: 7
 review_due: false
 assessment_due: false
-recent_comprehension_pct: [40, 86, 83, 67, 83]
+recent_comprehension_pct: [86, 83, 67, 83, 83]
 baseline_wpm: 45.9
-recent_wpm: 37.0
+recent_wpm: 40.4
 recent_summary_score: 3
 vocabulary_due: 0
 ---
@@ -26,9 +26,9 @@ vocabulary_due: 0
 
 ## 下一任务
 
-**阅读基础 4：原文证据与简洁概括**
+**阅读基础 5：识别隐含在时间线索中的原因**
 
-启动方式：下一次向 Codex 发送“开始今天的学习”。阅读一篇 80–120 词、句式直接的短文，用原文明示的信息回答原因题，再把概括压缩为“主要动作 + 一个支持点”的一句英语。
+启动方式：下一次向 Codex 发送“开始今天的学习”。阅读一篇 80–120 词、句式直接的短文，识别由 `after someone said/reported/asked` 表达的原因，再写“主要动作 + 一个支持点”的一句英语概括。
 
 ## 当前判断
 
@@ -43,14 +43,15 @@ vocabulary_due: 0
 - 第一次五次学习复盘已完成。五次理解率平均 65.2%、中位数 67%，摘要平均 2.2/4；明确记录的词汇回忆准确率为 93.8%。不同长度和难度材料的 WPM 不直接比较。
 - 复盘决定维持当前难度：最近两次阅读基础理解率为 83% 和 67%，未达到连续两次升档或降档条件。下一步继续区分主要动作、强制责任和可选帮助。
 - 阅读基础 3：98 词，独立阅读 159 秒，查词 0 次，37.0 WPM，理解率 83%，摘要 3/4。已经能准确区分 `must` 和 `can`；主要问题转为用推测代替原文证据，以及摘要包含过多细节。
+- 阅读基础 4：101 词，独立阅读 150 秒，查词 0 次，40.4 WPM，理解率 83%，摘要 3/4。摘要已经压缩为主要动作和一个支持点；原因题遗漏了 `after several parents said ...` 提供的原文证据。
 
 ## 最近指标
 
 | 指标 | 数据 |
 | --- | ---: |
-| 最近 5 次理解率 | 40%, 86%（分段支持）, 83%, 67%, 83% |
+| 最近 5 次理解率 | 86%（分段支持）, 83%, 67%, 83%, 83% |
 | 基线 WPM | 45.9 |
-| 最近独立阅读 WPM | 37.0（98 词；同日第二个阅读任务） |
+| 最近独立阅读 WPM | 40.4（101 词；150 秒） |
 | 最近摘要评分 | 3/4 |
 | 到期词汇 | 0 |
 
