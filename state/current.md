@@ -5,18 +5,18 @@ phase_label: 阅读基础期
 difficulty_band: "80–120-word primary text plus same-band transfer practice; direct sentences; up to 3 core-word glosses"
 cefr_reference: "A1–A2 reading range (provisional)"
 standard_session_minutes: "45–60"
-next_task: foundation-05
+next_task: foundation-06
 next_task_file: null
 next_task_status: ready
-last_session: 2026-08-19-003
-completed_sessions: 7
+last_session: 2026-08-20-004
+completed_sessions: 8
 partial_sessions: 0
-total_minutes: 118
-effective_sessions_since_review: 2
-effective_sessions_since_assessment: 7
+total_minutes: 168
+effective_sessions_since_review: 3
+effective_sessions_since_assessment: 8
 review_due: false
 assessment_due: false
-recent_comprehension_pct: [86, 83, 67, 83, 83]
+recent_comprehension_pct: [83, 67, 83, 83, 80]
 baseline_wpm: 45.9
 recent_wpm: 40.4
 recent_summary_score: 3
@@ -27,9 +27,9 @@ vocabulary_due: 0
 
 ## 下一任务
 
-**阅读基础 5（加长版）：识别隐含在时间线索中的原因**
+**阅读基础 6（加长版）：完整回答包含两个要求的问题**
 
-启动方式：下一次向 Codex 发送“开始今天的学习”。完成一次 45–60 分钟任务：先复习上次的原因证据线索，阅读一篇 80–120 词、句式直接的主文本，识别由 `after someone said/reported/asked` 表达的原因；随后完成证据定位、句子重组和一个同难度短迁移练习，最后写“主要动作 + 一个支持点”的一句英语概括。
+启动方式：下一次向 Codex 发送“开始今天的学习”。先复习到期的 `passenger`、`staff` 和 `keep ... clear`，再完成一次 45–60 分钟任务：阅读一篇 80–120 词、句式直接的主文本，逐项回答同时包含两个要求的问题；继续定位由 `after someone said/reported/asked` 表达的原因，完成句子训练和同难度短迁移，最后写“主要动作 + 一个支持点”的一句英语概括。
 
 ## 当前判断
 
@@ -46,12 +46,13 @@ vocabulary_due: 0
 - 阅读基础 3：98 词，独立阅读 159 秒，查词 0 次，37.0 WPM，理解率 83%，摘要 3/4。已经能准确区分 `must` 和 `can`；主要问题转为用推测代替原文证据，以及摘要包含过多细节。
 - 阅读基础 4：101 词，独立阅读 150 秒，查词 0 次，40.4 WPM，理解率 83%，摘要 3/4。摘要已经压缩为主要动作和一个支持点；原因题遗漏了 `after several parents said ...` 提供的原文证据。
 - 2026-08-20 起，标准任务由 20 分钟调整为 45–60 分钟。当前连续两次理解率为 83%、摘要 3/4、查词 0 次；先在相同难度档增加证据定位、句子训练和迁移输出，完成 3 次加长任务后结合下一次五次学习复盘决定是否增加主文篇幅。
+- 阅读基础 5 加长任务：104 词主文加 86 词迁移文，合计答对 12/15 个理解要点，理解率 80%，摘要 3/4。主文计时 188 秒，阅读中查词 2 次，因此不计算独立 WPM。已经能把 `after someone said/reported` 迁移为“问题 → 回应”线索；下一步需要完整覆盖问题的两个要求，并继续巩固 `clear`/`clean`、`must + 动词原形`、复数和冠词。
 
 ## 最近指标
 
 | 指标 | 数据 |
 | --- | ---: |
-| 最近 5 次理解率 | 86%（分段支持）, 83%, 67%, 83%, 83% |
+| 最近 5 次理解率 | 83%, 67%, 83%, 83%, 80% |
 | 基线 WPM | 45.9 |
 | 最近独立阅读 WPM | 40.4（101 词；150 秒） |
 | 最近摘要评分 | 3/4 |
