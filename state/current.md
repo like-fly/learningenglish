@@ -1,9 +1,10 @@
 ---
-updated: 2026-08-19
+updated: 2026-08-20
 phase: reading-foundation
 phase_label: 阅读基础期
-difficulty_band: "80–120 words; direct sentences; up to 3 core-word glosses"
+difficulty_band: "80–120-word primary text plus same-band transfer practice; direct sentences; up to 3 core-word glosses"
 cefr_reference: "A1–A2 reading range (provisional)"
+standard_session_minutes: "45–60"
 next_task: foundation-05
 next_task_file: null
 next_task_status: ready
@@ -26,9 +27,9 @@ vocabulary_due: 0
 
 ## 下一任务
 
-**阅读基础 5：识别隐含在时间线索中的原因**
+**阅读基础 5（加长版）：识别隐含在时间线索中的原因**
 
-启动方式：下一次向 Codex 发送“开始今天的学习”。阅读一篇 80–120 词、句式直接的短文，识别由 `after someone said/reported/asked` 表达的原因，再写“主要动作 + 一个支持点”的一句英语概括。
+启动方式：下一次向 Codex 发送“开始今天的学习”。完成一次 45–60 分钟任务：先复习上次的原因证据线索，阅读一篇 80–120 词、句式直接的主文本，识别由 `after someone said/reported/asked` 表达的原因；随后完成证据定位、句子重组和一个同难度短迁移练习，最后写“主要动作 + 一个支持点”的一句英语概括。
 
 ## 当前判断
 
@@ -44,6 +45,7 @@ vocabulary_due: 0
 - 复盘决定维持当前难度：最近两次阅读基础理解率为 83% 和 67%，未达到连续两次升档或降档条件。下一步继续区分主要动作、强制责任和可选帮助。
 - 阅读基础 3：98 词，独立阅读 159 秒，查词 0 次，37.0 WPM，理解率 83%，摘要 3/4。已经能准确区分 `must` 和 `can`；主要问题转为用推测代替原文证据，以及摘要包含过多细节。
 - 阅读基础 4：101 词，独立阅读 150 秒，查词 0 次，40.4 WPM，理解率 83%，摘要 3/4。摘要已经压缩为主要动作和一个支持点；原因题遗漏了 `after several parents said ...` 提供的原文证据。
+- 2026-08-20 起，标准任务由 20 分钟调整为 45–60 分钟。当前连续两次理解率为 83%、摘要 3/4、查词 0 次；先在相同难度档增加证据定位、句子训练和迁移输出，完成 3 次加长任务后结合下一次五次学习复盘决定是否增加主文篇幅。
 
 ## 最近指标
 

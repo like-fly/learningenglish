@@ -4,7 +4,7 @@ date: YYYY-MM-DD
 phase: diagnostic
 topic: ""
 source_url: null
-planned_minutes: 20
+planned_minutes: 50
 actual_minutes: 0
 status: partial
 difficulty: unassigned
@@ -54,4 +54,3 @@ wpm: null
 ## 下一任务
 
 - 
-
